@@ -1,19 +1,19 @@
 {
-    "guerra_mundial_z": {
+    "create": {
       "title": "Guerra Mundial Z",
       "overview": "Um ex-investigador da ONU é chamado para investigar a propagação de um vírus mortal que transforma as vítimas em zumbis, ameaçando dizimar a população mundial.",
       "company": "Paramount Pictures",
       "release_year": 2013,
       "featured": true,
-      "cover": "/caminho/para/guerra_mundial_z.png"
+      "cover": "/covers/movies/wwz.png"
     },
-    "resident_evil_o_hospedeiro": {
+    "duplicate": {
       "title": "Resident Evil: O Hospedeiro",
       "overview": "Alice se junta a sobreviventes para enfrentar a Corporação Umbrella e os zumbis mutantes criados por ela.",
-      "company": "Screen Gems",
+      "company": "Columbia Pictures",
       "release_year": 2002,
       "featured": false,
-      "cover": "/caminho/para/resident_evil_o_hospedeiro.png"
+      "cover": "/covers/movies/resident-evil.jpg"
     },
     "a_noite_dos_mortos_vivos": {
       "title": "A Noite dos Mortos-Vivos",
